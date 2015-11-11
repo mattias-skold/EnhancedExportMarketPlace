@@ -1,0 +1,5 @@
+{
+	"name": "Test Point Table",
+	"author":"Mattias Sköld", 
+	"description": "All test points in a table",
+} 
